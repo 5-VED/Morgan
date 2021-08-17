@@ -1,0 +1,4 @@
+da11bf5b-300f-4a27-b7a3-42e84ddc5b58 userToken GET 200 / "HTTP/1.1"
+e167f108-505c-4a0f-a581-bbf570921465 userToken GET 404 /api/masalamagic "HTTP/1.1"
+8d10cfb1-9bab-4feb-ac90-10223c5a509a userToken GET 200 / "HTTP/1.1"
+c4905a68-773e-43f1-86dd-fefe429be675 userToken GET 200 / "HTTP/1.1"
